@@ -1,4 +1,4 @@
-![LogoTI](./imagenes/Logo_TI.jpeg)
+![LogoTI](./Images/Logo_TI.jpeg)
 
 
 ---
